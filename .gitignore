@@ -1,0 +1,5 @@
+bin/main
+build/
+.vscode
+*.dylib
+*.blend*

@@ -1,0 +1,196 @@
+# Blender 4.2.0 MTL File: '小船.blend'
+# www.blender.org
+
+newmtl 坐垫
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_坐垫_BaseColor.png
+map_Ns /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_坐垫_Roughness.png
+map_refl /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_坐垫_Metallic.png
+map_Bump -bm 1.000000 /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_坐垫_Normal.png
+
+newmtl 木桌
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_木桌_BaseColor.png
+map_Ns /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_木桌_Roughness.png
+map_refl /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_木桌_Metallic.png
+map_Bump -bm 1.000000 /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_木桌_Normal.png
+
+newmtl 栏杆-木头
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_栏杆-木头_BaseColor.png
+map_Ns /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_栏杆-木头_Roughness.png
+map_refl /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_栏杆-木头_Metallic.png
+map_Bump -bm 1.000000 /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_栏杆-木头_Normal.png
+
+newmtl 栏杆船尾-木头
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_栏杆船尾-木头_BaseColor.png
+map_Ns /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_栏杆船尾-木头_Roughness.png
+map_refl /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_栏杆船尾-木头_Metallic.png
+map_Bump -bm 1.000000 /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_栏杆船尾-木头_Normal.png
+
+newmtl 椅子-木头
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_椅子-木头_BaseColor.png
+map_Ns /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_椅子-木头_Roughness.png
+map_refl /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_椅子-木头_Metallic.png
+map_Bump -bm 1.000000 /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_椅子-木头_Normal.png
+
+newmtl 水面
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.392382 0.806991 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.333300
+d 1.000000
+illum 2
+
+newmtl 灯笼
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 灯笼-木头支架
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_灯笼-木头支架_BaseColor.png
+map_Ns /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_灯笼-木头支架_Roughness.png
+map_refl /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_灯笼-木头支架_Metallic.png
+map_Bump -bm 1.000000 /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_灯笼-木头支架_Normal.png
+
+newmtl 灯笼-绳子
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_灯笼-绳子_BaseColor.png
+map_Ns /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_灯笼-绳子_Roughness.png
+map_refl /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_灯笼-绳子_Metallic.png
+map_Bump -bm 1.000000 /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_灯笼-绳子_Normal.png
+
+newmtl 灯笼-铜环
+Ns 534.228149
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.625766 0.002549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl 灯笼-须
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.646623 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 竹帘
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_竹帘_BaseColor.png
+map_Ns /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_竹帘_Roughness.png
+map_refl /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_竹帘_Metallic.png
+map_Bump -bm 1.000000 /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_竹帘_Normal.png
+
+newmtl 船底-木头
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_船底-木头_BaseColor.png
+map_Ns /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_船底-木头_Roughness.png
+map_refl /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_船底-木头_Metallic.png
+map_Bump -bm 1.000000 /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_船底-木头_Normal.png
+
+newmtl 船桨-木
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_船桨-木_BaseColor.png
+map_Ns /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_船桨-木_Roughness.png
+map_refl /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_船桨-木_Metallic.png
+map_Bump -bm 1.000000 /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_船桨-木_Normal.png
+
+newmtl 船舱-木头
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_船舱-木头_BaseColor.png
+map_Ns /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_船舱-木头_Roughness.png
+map_refl /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_船舱-木头_Metallic.png
+map_Bump -bm 1.000000 /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_船舱-木头_Normal.png
+
+newmtl 船舱-玻璃
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 船顶-木头
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_船顶-木头_BaseColor.png
+map_Ns /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_船顶-木头_Roughness.png
+map_refl /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_船顶-木头_Metallic.png
+map_Bump -bm 1.000000 /Users/maojiahao/Data/Blender_project/blender_project/小船/texture/小船_船顶-木头_Normal.png
